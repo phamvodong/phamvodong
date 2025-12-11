@@ -6,13 +6,6 @@
   height="300"
 />
 </a>
-<img
-  src="https://render.gitanimals.org/farms/phamvodong"
-  width="600"
-  height="300"
-/>
-</a>
-
 # 💫 About Me:
 🌱 I’m currently learning at RMIT University<br>
 
